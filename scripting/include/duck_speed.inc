@@ -1,4 +1,3 @@
-
 #if defined _duck_speed_included
 	#endinput
 #endif
